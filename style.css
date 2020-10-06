@@ -1,0 +1,17 @@
+body{
+    box-sizing: border-box;
+    background-color: gray;
+}
+.main{
+    background-color: rgb(197, 196, 196);   
+}
+p{
+    color: rgb(245, 242, 237);
+}
+
+
+h1{
+    text-align: center;
+    color: hotpink;
+    border-bottom: 1px solid hotpink;
+}
